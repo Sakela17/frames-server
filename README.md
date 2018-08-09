@@ -1,16 +1,16 @@
 # Frames
 
 ## Live URL
-https://frames-server.herokuapp.com/
+https://frames-api.herokuapp.com/
 
 ## Client URL
-https://frames-client.netlify.com/
+https://frames-app.surge.sh/
 ## Client Repo
-https://github.com/thinkful-ei20/frames-client
+https://github.com/valsakel/frames-client
 ***
 
 ## Summary
-A managing and scheduling API/client for small retailers and restuarants. When scheduling for multiple shifts, multiple employees over multiple divergent time zones, Frames steps in to take out the leg work. Users can easily add, assign, edit and delete shifts, maintain a list of employees and contact information and keep their schedules straight in daily, weekly or monthly views.
+A managing and scheduling API/client for small retailers and restaurants. When scheduling for multiple shifts, multiple employees over multiple divergent time zones, Frames steps in to take out the leg work. Users can easily add, assign, edit and delete shifts, maintain a list of employees and contact information and keep their schedules straight in daily, weekly or monthly views.
 
 ***
 
